@@ -88,4 +88,5 @@ Successfully withdrawn the amount mentioned!
 
 ## Contributors
 - <a href="https://github.com/sanskrutihere/">Sanskruti B.</a>
-- <a href="">Avantika M.</a>
+- <a href="https://github.com/ava-nti">Avantika M.</a>
+- (Sept '23)
